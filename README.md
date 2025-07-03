@@ -27,7 +27,7 @@ In today’s data-driven world, predicting employee salaries based on qualificat
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/your-username/SalaryPrediction.git
+git clone  https://github.com/swikritisuman/Employee_salary_prediction.git
 cd SalaryPrediction
 Step 2: Install Required Libraries
 bash
